@@ -108,3 +108,6 @@ The **CIFAR-10 dataset** contains:
 ## 🙌 Acknowledgments
 This project is completed as part of an internship task at **CODTECH** to demonstrate knowledge of **Convolutional Neural Networks** and **image classification** workflows.  
 
+# Output
+
+<img width="1910" height="865" alt="Image" src="https://github.com/user-attachments/assets/0df14718-40f8-4b4e-8686-7d91655a0653" />
